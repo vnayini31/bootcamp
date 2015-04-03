@@ -1,4 +1,5 @@
 # bootcamp
+<<<<<<< HEAD
 _This repo includes slides and sample codes in DSD's bootcamp_  
 
 **The folders are described as following:**  
@@ -33,3 +34,5 @@ _This repo includes slides and sample codes in DSD's bootcamp_
   + All source files, including pictures, etc. Make sure other people can generate your slides based on them.
   + Sample code, and dataset relavant to that content.
   + PDF file. Since people can read PDF file directly in browser.
+=======
+>>>>>>> Initial commit
