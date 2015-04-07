@@ -1,21 +1,12 @@
 ---
-title: "Data Exploration, Visualization, and Feature Engineering using R"
+title: "Data Visualization using R"
 author: "Yuhui Zhang, and Raja Iqbal"
 mode: standalone
-output: word_document
+output: html_document
 framework: flowtime
 url:
   lib: /home/yuhui/Copy/YDSDojo/bootcamp/slidify/slidifyExamples/libraries
 ---
-
-
-<!-- no space between code and its results -->
-```{r, echo=FALSE}
-library(knitr)
-hook1 <- function(x){ gsub("```\n*```r*\n*", "", x) }
-hook2 <- function(x){ gsub("```\n+```\n", "", x) }
-## knit_hooks$set(document = hook2)      
-```
 
 # Basic plotting systems
 1. Base graphics: constructed piecemeal. Conceptually simpler and allows plotting to mirror the thought process.
